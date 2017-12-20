@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.binda.mongodbreactivestockservice.client.StockQuoteClient",
+      "name": "binda",
+      "type": "com.binda.mongodbreactivestockservice.client.StockQuoteClient"
+    }
+  ],
+  "properties": []
+}
